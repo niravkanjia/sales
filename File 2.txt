@@ -1,2 +1,4 @@
 File 2 in master.
 Additional data.
+
+Stashed changes.
