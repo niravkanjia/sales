@@ -1,3 +1,0 @@
-File 1 in master.
-Additional changes.
-Branch v2.0
